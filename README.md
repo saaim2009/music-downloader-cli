@@ -5,6 +5,11 @@ A simple **Python-based CLI** tool to download songs and playlists from YouTube/
 *Programmed by Muhammad Saaim*
 
 ---
+📸 Screenshot
+Below is an example of the Music Downloader CLI in action (run in your Windows Command Prompt):
+
+![image](https://github.com/user-attachments/assets/f67f9b76-9d27-48a9-8c3e-49b89ce4215a)
+
 
 ## 📥 Download
 
