@@ -15,7 +15,7 @@ Below is an example of the Music Downloader CLI in action (run in your Windows C
 
 You can download the **all-in-one ZIP package** (contains the compiled executable, `yt-dlp.exe`, and `ffmpeg` binaries) from our Release page:
 
-[ABC‑XYZ.com/music-downloader-cli/releases/latest](https://ABC-XYZ.com/music-downloader-cli/releases/latest)
+https://drive.google.com/file/d/1k96JVCJwOjr-2_PjdT3hxuZkTfkTrtkU/
 
 > ⚠️ **Note:** The ZIP is ≈400 MB because it includes FFmpeg and yt-dlp for broader use beyond this CLI.
 
