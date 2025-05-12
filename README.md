@@ -13,7 +13,7 @@ Below is an example of the Music Downloader CLI in action (run in your Windows C
 
 ## 📥 Download
 
-You can download the **all-in-one ZIP package** (contains the compiled executable, `yt-dlp.exe`, and `ffmpeg` binaries) from our Release page:
+You can download the **all-in-one ZIP package** (contains the compiled executable, `yt-dlp.exe`, and `ffmpeg` binaries):
 
 https://drive.google.com/file/d/1k96JVCJwOjr-2_PjdT3hxuZkTfkTrtkU/
 
